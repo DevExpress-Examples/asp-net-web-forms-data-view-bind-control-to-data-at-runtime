@@ -21,4 +21,3 @@ At runtime, assign an object that implements the [IEnumerable](https://learn.mic
 ## Documentation
 
 - [Bind Data View to Data](https://docs.devexpress.com/AspNet/115695/components/data-and-image-navigation/dataview/concepts/binding-to-data)
-- 
