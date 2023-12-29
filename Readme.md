@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Data View for ASP.NET Web Forms - How to bind the control to a data source at runtime
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128563630/)**
-<!-- run online end -->
 This example demonstrates how to bind the [Data View](https://docs.devexpress.com/AspNet/8280/components/data-and-image-navigation/dataview?p=netframework) control to a data source at runtime. When the control is loaded, the [Load](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.control.load?view=netframework-4.8.1) event's handler creates a data source, defines a template for data items, and binds the control to the data source.
 
 ![Bind Data View to Data Source](result.png)
